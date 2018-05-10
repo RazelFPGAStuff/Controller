@@ -1,0 +1,139 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/FPGA/FPGA 2014/vhdl_workspace/Controller
+Econtroller
+Z1 w1525931006
+Z2 DPx4 work 5 types 0 22 gQ3dj4kf@<]zSO7^z9a2k2
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z7 8C:/FPGA/FPGA 2014/vhdl_workspace/Controller/Controller.vhd
+Z8 FC:/FPGA/FPGA 2014/vhdl_workspace/Controller/Controller.vhd
+l0
+L11
+V]OUYP11S^CS3LoUE^>I`U3
+!s100 efM>a22c002b^UADVe@TH3
+Z9 OV;C;10.5b;63
+32
+Z10 !s110 1525937638
+!i10b 1
+Z11 !s108 1525937638.000000
+Z12 !s90 -reportprogress|300|-work|work|C:/FPGA/FPGA 2014/vhdl_workspace/Controller/Controller.vhd|
+Z13 !s107 C:/FPGA/FPGA 2014/vhdl_workspace/Controller/Controller.vhd|
+!i113 1
+Z14 o-work work
+Z15 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 10 controller 0 22 ]OUYP11S^CS3LoUE^>I`U3
+l38
+L23
+V<RN`SW]V21Q9K<BNE0^9>3
+!s100 hol;ThXBMKmmc0H2gcgc`2
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Econtroller_tb
+Z16 w1525937633
+Z17 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R3
+R4
+R5
+R6
+R0
+Z18 8C:/FPGA/FPGA 2014/vhdl_workspace/Controller/controller_tb.vhd
+Z19 FC:/FPGA/FPGA 2014/vhdl_workspace/Controller/controller_tb.vhd
+l0
+L42
+VlBKlfikA@FJ0IOS4CR:ES3
+!s100 gidNSD5XXPeK[RkoRSXm83
+R9
+32
+R10
+!i10b 1
+R11
+Z20 !s90 -reportprogress|300|-work|work|C:/FPGA/FPGA 2014/vhdl_workspace/Controller/controller_tb.vhd|
+Z21 !s107 C:/FPGA/FPGA 2014/vhdl_workspace/Controller/controller_tb.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R17
+R3
+R4
+R5
+R6
+DEx4 work 13 controller_tb 0 22 lBKlfikA@FJ0IOS4CR:ES3
+l76
+L45
+VnB:co=2>hlSM8eV0baA`12
+!s100 LFIGUnSnJMU?NGZShk4ED2
+R9
+32
+R10
+!i10b 1
+R11
+R20
+R21
+!i113 1
+R14
+R15
+Ptypes
+R5
+R6
+Z22 w1524251653
+R0
+Z23 8C:/FPGA/FPGA 2014/vhdl_workspace/Controller/Types.vhd
+Z24 FC:/FPGA/FPGA 2014/vhdl_workspace/Controller/Types.vhd
+l0
+L8
+VgQ3dj4kf@<]zSO7^z9a2k2
+!s100 oGDYYNEkH[B05ElZ=MoDd0
+R9
+32
+R10
+!i10b 1
+R11
+Z25 !s90 -reportprogress|300|-work|work|C:/FPGA/FPGA 2014/vhdl_workspace/Controller/Types.vhd|
+Z26 !s107 C:/FPGA/FPGA 2014/vhdl_workspace/Controller/Types.vhd|
+!i113 1
+R14
+R15
+Bbody
+R2
+R5
+R6
+l0
+L66
+Z27 VZVLCEW2hM[Z6=ii`ZS5_i2
+Z28 !s100 X;_dT8O@YZ:KH9`P>HL7F3
+R9
+32
+R10
+!i10b 1
+R11
+R25
+R26
+!i113 1
+R14
+R15
